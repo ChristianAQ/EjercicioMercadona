@@ -109,4 +109,8 @@ public class EanServiceImpl implements EanService {
         return new EanEntity(ean, proveedor, codigoProducto, destino);
     }
 
+    private void prueba(){
+        //esto es una prueba
+    }
+
 }
